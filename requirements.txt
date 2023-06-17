@@ -1,0 +1,5 @@
+fastapi~=0.96.0
+SQLAlchemy~=2.0.15
+starlette~=0.27.0
+pydantic~=1.10.8
+Faker~=18.10.1

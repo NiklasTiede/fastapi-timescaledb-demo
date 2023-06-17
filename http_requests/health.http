@@ -1,0 +1,2 @@
+### health
+GET {{protocol}}{{host}}:{{port}}/

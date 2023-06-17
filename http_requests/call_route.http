@@ -1,0 +1,4 @@
+
+### get call data for a time range
+GET {{protocol}}{{host}}:{{port}}/api/v1/call_records?start_date=2023-06-01T00:00:00.001Z&end_date=2023-06-01T10:59:59.001Z&offset=0&limit=100
+api-key: KaB00Mer
